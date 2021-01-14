@@ -2,7 +2,6 @@ package 1주차
 
 import java.util.Arrays;
 import java.util.Scanner;
-
 import static java.lang.Math.abs;
 
 public class Main{
