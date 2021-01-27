@@ -10,9 +10,9 @@ public class Main {
     static boolean[][] visited;
     static int x = 0;
     static int y = 0;
+    static int count = 0;
     static int[] dx = {-1, 1, 0, 0};
     static int[] dy = {0, 0, -1, 1};
-    static int count = 0;
 
     public static void main(String[] args) throws IOException {
         int T = Integer.parseInt(br.readLine());
