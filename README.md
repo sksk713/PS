@@ -6,4 +6,4 @@
 ### 2주차
 [1105_baek 1092_baek 1946_baek 1263_baek 1068_baek](https://sksk713-til.netlify.app/docs/PS/week2)
 ### 3주차
-[1012_baek](https://sksk713-til.netlify.app/docs/PS/week3)
+[1012_baek 1541_baek](https://sksk713-til.netlify.app/docs/PS/week3)
