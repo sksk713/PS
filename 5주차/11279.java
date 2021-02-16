@@ -9,7 +9,6 @@ public class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //    static ArrayList<Integer> arr = new ArrayList<>();
     static PriorityQueue<Integer> arr = new PriorityQueue<>(Comparator.reverseOrder());
-
     public static void main(String[] args) throws IOException {
         int n = Integer.parseInt(br.readLine());
         for (int i = 0; i < n; i++) {
